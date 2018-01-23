@@ -1,2 +1,3 @@
 Name: Malcolm Gomes
 Markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
